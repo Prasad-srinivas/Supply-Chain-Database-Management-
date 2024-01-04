@@ -1,7 +1,3 @@
--- IFT 530: Enterprise Data Management Systems
--- Assignment:IFT530_FinalProject 
--- Prasad Srinivas ASU ID: 1226328573
--- Date: 11/28/2023
 -- SupplyChain Database Management 
 --------------------------------Creating Tables------------------------------------------------------------------------------------------------- 
 -- Create the Prasa573 database
@@ -184,7 +180,7 @@ VALUES
 (3, 'Bs Beverages', 'Victoria Ashworth', 'London', 'east', 'UK', '(171) 555-1212'),
 (4, 'Cactus Comidas para llevar', 'Patricio Simpson', 'Buenos Aires', 'north', 'Argentina', '(1) 135-5555'),
 (5, 'Eastern Connection', 'Ann Devon', 'London', 'south', 'UK', '(171) 555-0297'),
-(6, 'Frankenversand', 'Peter Franken', 'München', 'west', 'Germany', '089-0877310'),
+(6, 'Frankenversand', 'Peter Franken', 'MÃ¼nchen', 'west', 'Germany', '089-0877310'),
 (7, 'GROSELLA-Restaurante', 'Manuel Pereira', 'Caracas', 'DF', 'Venezuela', '(2) 283-2951'),
 (8, 'Hanari Carnes', 'Mario Pontes', 'Rio de Janeiro', 'RJ', 'Brazil', '(21) 555-0091'),
 (9, 'Island Trading', 'Helen Bennett', 'Cowes', 'Isle of Wight', 'UK', '(198) 555-8888'),
